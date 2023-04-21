@@ -1,0 +1,162 @@
+2023-04-21 16:04:07,745 - memory_profile_log - INFO - Testing Values of Size: 64 bits.
+2023-04-21 16:04:07,745 - memory_profile_log - INFO - 
+
+2023-04-21 16:04:07,749 - memory_profile_log - INFO - Number = 15705905898844636949
+2023-04-21 16:04:07,749 - memory_profile_log - INFO - 
+
+2023-04-21 16:04:10,198 - memory_profile_log - INFO - Function was called 1 times.
+2023-04-21 16:04:10,198 - memory_profile_log - INFO - 
+
+2023-04-21 16:04:10,198 - memory_profile_log - INFO - [2080612559, 7548693211]
+2023-04-21 16:04:10,202 - memory_profile_log - INFO - 
+
+2023-04-21 16:04:10,202 - memory_profile_log - INFO - Memory usage:
+2023-04-21 16:04:10,202 - memory_profile_log - INFO -  
+2023-04-21 16:04:10,202 - memory_profile_log - INFO - (0, 0)
+2023-04-21 16:04:10,202 - memory_profile_log - INFO - 
+
+2023-04-21 16:04:10,202 - memory_profile_log - INFO - The Pollard Rho Algorithm has completed. The running time was 
+2023-04-21 16:04:10,202 - memory_profile_log - INFO - 
+2023-04-21 16:04:10,202 - memory_profile_log - INFO - 0 Hours, 0 Minutes, and 2 Seconds.
+2023-04-21 16:04:10,202 - memory_profile_log - INFO - 
+
+2023-04-21 16:04:10,202 - memory_profile_log - INFO - 
+
+2023-04-21 16:04:10,202 - memory_profile_log - INFO - 
+
+2023-04-21 16:04:10,202 - memory_profile_log - INFO - Number = 15294033112201162937
+2023-04-21 16:04:10,206 - memory_profile_log - INFO - 
+
+2023-04-21 16:04:11,731 - memory_profile_log - INFO - Function was called 2 times.
+2023-04-21 16:04:11,731 - memory_profile_log - INFO - 
+
+2023-04-21 16:04:11,731 - memory_profile_log - INFO - [1789597127, 8546076031]
+2023-04-21 16:04:11,731 - memory_profile_log - INFO - 
+
+2023-04-21 16:04:11,731 - memory_profile_log - INFO - Memory usage:
+2023-04-21 16:04:11,735 - memory_profile_log - INFO -  
+2023-04-21 16:04:11,735 - memory_profile_log - INFO - (0, 0)
+2023-04-21 16:04:11,735 - memory_profile_log - INFO - 
+
+2023-04-21 16:04:11,735 - memory_profile_log - INFO - The Pollard Rho Algorithm has completed. The running time was 
+2023-04-21 16:04:11,735 - memory_profile_log - INFO - 
+2023-04-21 16:04:11,735 - memory_profile_log - INFO - 0 Hours, 0 Minutes, and 1 Seconds.
+2023-04-21 16:04:11,735 - memory_profile_log - INFO - 
+
+2023-04-21 16:04:11,739 - memory_profile_log - INFO - 
+
+2023-04-21 16:04:11,739 - memory_profile_log - INFO - 
+
+2023-04-21 16:04:11,739 - memory_profile_log - INFO - Number = 11997554032078740343
+2023-04-21 16:04:11,739 - memory_profile_log - INFO - 
+
+2023-04-21 16:04:12,390 - memory_profile_log - INFO - Function was called 2 times.
+2023-04-21 16:04:12,390 - memory_profile_log - INFO - 
+
+2023-04-21 16:04:12,394 - memory_profile_log - INFO - [1803110339, 6653810237]
+2023-04-21 16:04:12,394 - memory_profile_log - INFO - 
+
+2023-04-21 16:04:12,394 - memory_profile_log - INFO - Memory usage:
+2023-04-21 16:04:12,394 - memory_profile_log - INFO -  
+2023-04-21 16:04:12,394 - memory_profile_log - INFO - (0, 0)
+2023-04-21 16:04:12,398 - memory_profile_log - INFO - 
+
+2023-04-21 16:04:12,398 - memory_profile_log - INFO - The Pollard Rho Algorithm has completed. The running time was 
+2023-04-21 16:04:12,398 - memory_profile_log - INFO - 
+2023-04-21 16:04:12,398 - memory_profile_log - INFO - 0 Hours, 0 Minutes, and 0 Seconds.
+2023-04-21 16:04:12,398 - memory_profile_log - INFO - 
+
+2023-04-21 16:04:12,402 - memory_profile_log - INFO - 
+
+2023-04-21 16:04:12,402 - memory_profile_log - INFO - 
+
+2023-04-21 16:04:12,402 - memory_profile_log - INFO - Number = 13663813330636144051
+2023-04-21 16:04:12,402 - memory_profile_log - INFO - 
+
+2023-04-21 16:04:14,312 - memory_profile_log - INFO - Function was called 1 times.
+2023-04-21 16:04:14,316 - memory_profile_log - INFO - 
+
+2023-04-21 16:04:14,316 - memory_profile_log - INFO - [1776782939, 7690198409]
+2023-04-21 16:04:14,316 - memory_profile_log - INFO - 
+
+2023-04-21 16:04:14,316 - memory_profile_log - INFO - Memory usage:
+2023-04-21 16:04:14,316 - memory_profile_log - INFO -  
+2023-04-21 16:04:14,316 - memory_profile_log - INFO - (0, 0)
+2023-04-21 16:04:14,316 - memory_profile_log - INFO - 
+
+2023-04-21 16:04:14,316 - memory_profile_log - INFO - The Pollard Rho Algorithm has completed. The running time was 
+2023-04-21 16:04:14,316 - memory_profile_log - INFO - 
+2023-04-21 16:04:14,316 - memory_profile_log - INFO - 0 Hours, 0 Minutes, and 1 Seconds.
+2023-04-21 16:04:14,316 - memory_profile_log - INFO - 
+
+2023-04-21 16:04:14,320 - memory_profile_log - INFO - 
+
+2023-04-21 16:04:14,320 - memory_profile_log - INFO - 
+
+2023-04-21 16:04:14,320 - memory_profile_log - INFO - Number = 16531320912516219869
+2023-04-21 16:04:14,320 - memory_profile_log - INFO - 
+
+2023-04-21 16:09:13,156 - memory_profile_log - INFO - Function was called 1 times.
+2023-04-21 16:09:13,156 - memory_profile_log - INFO - 
+
+2023-04-21 16:09:13,160 - memory_profile_log - INFO - [8491086931, 1946902799]
+2023-04-21 16:09:13,160 - memory_profile_log - INFO - 
+
+2023-04-21 16:09:13,160 - memory_profile_log - INFO - Memory usage:
+2023-04-21 16:09:13,160 - memory_profile_log - INFO -  
+2023-04-21 16:09:13,160 - memory_profile_log - INFO - (0, 0)
+2023-04-21 16:09:13,160 - memory_profile_log - INFO - 
+
+2023-04-21 16:09:13,160 - memory_profile_log - INFO - The Pollard Rho Algorithm has completed. The running time was 
+2023-04-21 16:09:13,160 - memory_profile_log - INFO - 
+2023-04-21 16:09:13,160 - memory_profile_log - INFO - 0 Hours, 4 Minutes, and 58 Seconds.
+2023-04-21 16:09:13,160 - memory_profile_log - INFO - 
+
+2023-04-21 16:09:13,160 - memory_profile_log - INFO - 
+
+2023-04-21 16:09:13,160 - memory_profile_log - INFO - 
+
+2023-04-21 16:09:13,164 - memory_profile_log - INFO - ------------------------Total Time------------------------
+2023-04-21 16:09:13,164 - memory_profile_log - INFO - 
+
+2023-04-21 16:09:13,164 - memory_profile_log - INFO - The Pollard Rho Algorithm has completed. The running time was 
+2023-04-21 16:09:13,164 - memory_profile_log - INFO - 
+2023-04-21 16:09:13,164 - memory_profile_log - INFO - 0 Hours, 5 Minutes, and 2 Seconds.
+2023-04-21 16:09:13,164 - memory_profile_log - INFO - 
+
+2023-04-21 16:09:13,164 - memory_profile_log - INFO - Filename: C:/Users/bigma/PycharmProjects/CMSC441_ResearchPaper/pollardRho.py
+
+
+2023-04-21 16:09:13,164 - memory_profile_log - INFO - Line #    Mem usage    Increment  Occurrences   Line Contents
+
+2023-04-21 16:09:13,164 - memory_profile_log - INFO - =============================================================
+
+2023-04-21 16:09:13,164 - memory_profile_log - INFO -     91     26.6 MiB     26.6 MiB           1   @profile
+
+2023-04-21 16:09:13,164 - memory_profile_log - INFO -     92                                         def mainHelper():
+
+2023-04-21 16:09:13,164 - memory_profile_log - INFO -     93     26.7 MiB      0.0 MiB           1       f = open("64RSA.txt", "r")
+
+2023-04-21 16:09:13,164 - memory_profile_log - INFO -     94     26.7 MiB      0.0 MiB           1       bitSize = int(f.readline())
+
+2023-04-21 16:09:13,164 - memory_profile_log - INFO -     95     26.7 MiB      0.0 MiB           1       print("Testing Values of Size: " + str(bitSize) + " bits.")
+
+2023-04-21 16:09:13,164 - memory_profile_log - INFO -     96     26.7 MiB      0.0 MiB           1       totalTime = 0
+
+2023-04-21 16:09:13,164 - memory_profile_log - INFO -     97     26.8 MiB      0.0 MiB           6       for i in range(5):
+
+2023-04-21 16:09:13,164 - memory_profile_log - INFO -     98     26.7 MiB      0.0 MiB           5           n = int(f.readline())
+
+2023-04-21 16:09:13,164 - memory_profile_log - INFO -     99     26.7 MiB      0.0 MiB           5           print("Number = " + str(n))
+
+2023-04-21 16:09:13,164 - memory_profile_log - INFO -    100     26.8 MiB      0.1 MiB           5           totalTime += pollardRhoHelper(n)
+
+2023-04-21 16:09:13,164 - memory_profile_log - INFO -    101     26.8 MiB      0.0 MiB           5           print("\n")
+
+2023-04-21 16:09:13,164 - memory_profile_log - INFO -    102                                         
+
+2023-04-21 16:09:13,164 - memory_profile_log - INFO -    103     26.8 MiB      0.0 MiB           1       print("------------------------Total Time------------------------")
+
+2023-04-21 16:09:13,164 - memory_profile_log - INFO -    104     26.8 MiB      0.0 MiB           1       print_time(totalTime)
+
+2023-04-21 16:09:13,164 - memory_profile_log - INFO - 
